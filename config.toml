@@ -1,0 +1,5 @@
+mole_count = 8
+mole_limit = 3
+grid_size = 6
+pop_time = 5000
+hide_time = 5000

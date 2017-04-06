@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="TOML.lib.v1.2.1.by.TheElectronWill.source.javadoc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/TOML.lib.v1.2.1.by.TheElectronWill.source.javadoc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/TOML.lib.v1.2.1.by.TheElectronWill.source.javadoc.jar!/" />
+    </SOURCES>
+  </library>
+</component>
