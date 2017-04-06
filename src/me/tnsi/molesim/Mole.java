@@ -50,7 +50,6 @@ public class Mole implements Runnable {
                         btnEntity.setName("pop");
                         btnEntity.setIcon(new ImageIcon(imgMolePop));
                         btnEntity.revalidate();
-                        System.out.println("Popped!");
                         continue;
                     } catch (InterruptedException e) {
                         System.out.println("Interrupted during pop_time");
